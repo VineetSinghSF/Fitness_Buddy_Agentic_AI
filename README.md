@@ -141,6 +141,8 @@ Fitness-Buddy-Agentic-AI/
 │   ├── architecture.png
 │   └── chatbot.png
 
+---
+
 ## 📈 Future Scope
 
 ### Wearable Device Integration
