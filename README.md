@@ -125,6 +125,8 @@ The system uses a multi-agent architecture where different agents collaborate to
 
 ✔ User-Friendly Experience
 
+---
+
 ## 📂 Project Files
 
 ```text
