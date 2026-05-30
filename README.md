@@ -137,9 +137,10 @@ Fitness-Buddy-Agentic-AI/
 ├── Fitness_Buddy_Presentation.pptx
 ├── Problem_Statement.pdf
 ├── screenshots/
-│   ├── workflow.png
-│   ├── architecture.png
-│   └── chatbot.png
+    ├── workflow.png
+    ├── architecture.png
+    └── chatbot.png
+```
 
 ---
 
